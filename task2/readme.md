@@ -1,1 +1,0 @@
-# OWASP Mutillidae tasks
